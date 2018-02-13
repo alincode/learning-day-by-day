@@ -24,6 +24,9 @@
 * [Progressive Web Apps & Web Performance By CodinCat](http://s.itho.me/modernweb/2017/day1/101-4-CodinCat.pdf)
   * Tags: PWA
 
+### 2018/02/13
+* [Parcel](https://parceljs.org/)
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

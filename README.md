@@ -25,7 +25,14 @@
   * Tags: PWA
 
 ### 2018/02/13
+* [Build a Reddit Search App With ES6, Fetch & Parcel - YouTube](https://www.youtube.com/watch?v=VITzIZB-bXU)
 * [Parcel](https://parceljs.org/)
+
+### 2018/02/14
+* [Vanilla JS](http://vanilla-js.com/)
+* [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
+  * [GitHub - wesbos/JavaScript30: 30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30)
+* [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 
 ## Learning Map Skills
 

@@ -34,6 +34,16 @@
   * [GitHub - wesbos/JavaScript30: 30 Day Vanilla JS Challenge](https://github.com/wesbos/JavaScript30)
 * [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 
+### 2018/02/15
+
+* [虛擬貓咪原始碼＆智慧合約入門筆記 | 轉個彎日誌](http://blog.turn.tw/?p=3624)
+* [Ethereum 智慧合約佈署初體驗：數據與成本分享 | 轉個彎日誌](http://blog.turn.tw/?p=3596)
+* [以太幣購買與傳送初體驗：數據與心得分享 | 轉個彎日誌](http://blog.turn.tw/?p=3579)
+
+### 2018/02/15
+* [André Staltz - Promises are not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html)
+
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

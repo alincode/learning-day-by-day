@@ -50,6 +50,10 @@
 * [Algolia | The Most Reliable Platform for Building Search](https://www.algolia.com/)
 * [GitHub - fangwei716/30-days-of-react-native: 30 days of React Native demos](https://github.com/fangwei716/30-days-of-react-native)
 
+### 2018/04/05
+
+* [GraphQL Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

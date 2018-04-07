@@ -53,6 +53,7 @@
 ### 2018/04/05
 
 * [GraphQL Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
+* [GitLab CE Tutorials - YouTube](https://www.youtube.com/playlist?list=PLLnpHn493BHGgDmJGfCzRYRkFYWcRrxDT)
 
 ## Learning Map Skills
 

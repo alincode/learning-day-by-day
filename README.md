@@ -59,7 +59,8 @@
 
 * [CS50.tv](http://cs50.tv/2017/fall/)
 * [CS50 中文導讀 - YouTube](https://www.youtube.com/playlist?list=PLeWlPscCzV-emSo2phZqStPZ0UDKzKu8s)
-
+* [從新手到中手：前端工程加強班 - YouTube](https://www.youtube.com/playlist?list=PLeWlPscCzV-fg5N5-tscVwM8oX07dXemq)
+* [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

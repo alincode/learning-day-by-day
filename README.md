@@ -55,6 +55,11 @@
 * [GraphQL Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 * [GitLab CE Tutorials - YouTube](https://www.youtube.com/playlist?list=PLLnpHn493BHGgDmJGfCzRYRkFYWcRrxDT)
 
+### 2018/04/08
+
+* [CS50.tv](http://cs50.tv/2017/fall/)
+* [CS50 中文導讀 - YouTube](https://www.youtube.com/playlist?list=PLeWlPscCzV-emSo2phZqStPZ0UDKzKu8s)
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

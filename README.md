@@ -61,6 +61,13 @@
 * [CS50 中文導讀 - YouTube](https://www.youtube.com/playlist?list=PLeWlPscCzV-emSo2phZqStPZ0UDKzKu8s)
 * [從新手到中手：前端工程加強班 - YouTube](https://www.youtube.com/playlist?list=PLeWlPscCzV-fg5N5-tscVwM8oX07dXemq)
 * [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
+
+### 2018/04/10
+
+* [WebAssembly](http://webassembly.org/)
+  * [Dan Callahan: Practical WebAssembly | JSConf Budapest 2017 - YouTube](https://www.youtube.com/watch?v=bac0dGQbUto)
+* [Ramda Documentation](http://ramdajs.com/): Practical functional Javascript
+  * [Ramda 函数库参考教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

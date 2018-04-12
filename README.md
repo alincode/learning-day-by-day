@@ -68,6 +68,12 @@
   * [Dan Callahan: Practical WebAssembly | JSConf Budapest 2017 - YouTube](https://www.youtube.com/watch?v=bac0dGQbUto)
 * [Ramda Documentation](http://ramdajs.com/): Practical functional Javascript
   * [Ramda 函数库参考教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
+
+### 2018/04/11
+
+* [NodeSchool - workshoppers](https://nodeschool.io/#workshoppers)
+* [GitHub - i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated](https://github.com/i0natan/nodebestpractices)
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

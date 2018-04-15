@@ -74,6 +74,10 @@
 * [NodeSchool - workshoppers](https://nodeschool.io/#workshoppers)
 * [GitHub - i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated](https://github.com/i0natan/nodebestpractices)
 
+### 2018/04/15
+
+* [GitHub - wasdk/WebAssemblyStudio: Learn, Teach, Work and Play in the WebAssembly Studio](https://github.com/wasdk/WebAssemblyStudio)
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

@@ -78,6 +78,11 @@
 
 * [GitHub - wasdk/WebAssemblyStudio: Learn, Teach, Work and Play in the WebAssembly Studio](https://github.com/wasdk/WebAssemblyStudio)
 
+### 2018/04/25
+
+* [GitHub - github-changelog-generator: Automatically generate change log from your tags, issues, labels and pull requests on GitHub.](https://github.com/github-changelog-generator/github-changelog-generator)
+
+
 ## Learning Map Skills
 
 * [GitHub - wizardamigos/skilltree: WizardAmigos SkillTree](https://github.com/wizardamigos/skilltree)

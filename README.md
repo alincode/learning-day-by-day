@@ -1,4 +1,10 @@
 # Learning Day By Day
+
+### 2018/11/27
+
+* [開放源碼授權概觀（上） – getamis – Medium](https://medium.com/getamis/%E9%96%8B%E6%94%BE%E6%BA%90%E7%A2%BC%E6%8E%88%E6%AC%8A%E6%A6%82%E8%A7%80-%E4%B8%8A-45309a387c64)
+* [開放源碼授權概觀（下） – getamis – Medium](https://medium.com/getamis/%E9%96%8B%E6%94%BE%E6%BA%90%E7%A2%BC%E6%8E%88%E6%AC%8A%E6%A6%82%E8%A7%80-%E4%B8%8B-eeda7ce13f1e)
+
 ### 2018/02/08
 
 * [CryptoZombies - Learn to code games on Ethereal. Powered by Loom Network](https://cryptozombies.io/)
@@ -82,6 +88,10 @@
 
 * [GitHub - github-changelog-generator: Automatically generate change log from your tags, issues, labels and pull requests on GitHub.](https://github.com/github-changelog-generator/github-changelog-generator)
 
+### 2018/04/30
+
+* [Building a fast Electron app with Rust](https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/)
+* [理解JWT的使用场景和优劣 | 徐靖峰|个人博客](https://www.cnkirito.moe/2018/04/20/jwt-learn-3/)
 
 ## Learning Map Skills
 

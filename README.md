@@ -1,11 +1,15 @@
 # Learning Day By Day
 
+### 2018/12/1
+* [Lerna Tutorial -  Managing Monorepos with Lerna](http://opensourceforgeeks.blogspot.com/2018/10/lerna-tutorial-managing-monorepos-with.html)
+* [Lerna Tutorial - Managing Monorepos with Lerna - YouTube](https://www.youtube.com/watch?v=Nn8G91x8tJI)
+
 ### 2018/11/30
 * [[The Effective Engineer 翻譯筆記] Introduction – Wilson Huang – Medium](https://medium.com/@wilsonhuang/the-effective-engineer-%E7%AD%86%E8%A8%98-introduction-885e8c575640)
 * [Node.js 打造 API 設定 joi 與 config dotenv 環境參數 — 1010Code](https://andy6804tw.github.io/2018/01/01/joi-config-dotenv/)
 
 ### 2018/11/29
-* [awesome-maintainers]:<https://github.com/nayafia/awesome-maintainers>
+* awesome-maintainers:<https://github.com/nayafia/awesome-maintainers>
 
 ### 2018/11/28
 * [REPO 风格之争：MONO VS MULTI](https://zhuanlan.zhihu.com/p/31289463)
